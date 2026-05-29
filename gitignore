@@ -1,0 +1,17 @@
+# Visual Studio / C# için gereksiz dosyalar
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Derleme çıktıları ve geçici dosyalar
+Debug/
+Release/
+*.pdb
+*.tmp
+
+# Paket yönetim klasörleri (varsa)
+packages/
